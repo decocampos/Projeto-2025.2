@@ -113,8 +113,8 @@ As atividades são registradas no arquivo:
 
 - [Definições de Projeto](https://observantia.notion.site/Defini-es-de-projeto-2798a012ec798165bd78fe28726f1e16)  
 - [Metodologia Preliminar de Trabalho](https://www.notion.so/observantia/Metodologia-Preliminar-de-Trabalho-2898a012ec79804ba02ac452b90f9c91)  
-- [Termo de Abertura](Termo%20abertura%202808a012ec79802f8343f04264ffacac.md)  
-- [Cronograma de Execução](Cronograma%20execu%C3%A7%C3%A3o%20do%20projeto%202808a012ec7980ea98eacedc51ac409f.md)
+- [Termo de Abertura](https://observantia.notion.site/Termo-de-abertura-2898a012ec7980a88bd1febfcaee3723?source=copy_link)  
+- [Cronograma de Execução](https://observantia.notion.site/Cronograma-2898a012ec7980f5b581e138b65142de?source=copy_link)
 
 ---
 
