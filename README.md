@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-observantia.png" alt="Logo ObservantIA" width="240"/>
+  <img src="assets/logo.png" alt="Logo ObservantIA" width="240"/>
 </p>
 
 # 🧠 ObservantIA – Sistema de Auditoria de Contratos
@@ -102,17 +102,17 @@ As atividades são registradas no arquivo:
 
 | Etapa | Período | Principais Entregas |
 |-------|----------|----------------------|
-| Kickoff | Ago 2025 | Termo de Abertura + Escopo |
-| Status Report 1 | Set 2025 | Protótipo e levantamento funcional |
-| Status Report 2 | Out 2025 | Iteração avançada e testes |
-| Entrega Final | Nov 2025 | Relatório técnico e demonstração |
+| Kickoff | Out 2025 | Termo de Abertura + Escopo |
+| Status Report 1 | Nov 2025 | Protótipo e levantamento funcional |
+| Status Report 2 | Dec 2025 | Iteração avançada e testes |
+| Entrega Final | Dec 2025 | Relatório técnico e demonstração |
 
 ---
 
 ## 📄 Documentos Relevantes
 
-- [Definições de Projeto](Defini%C3%A7%C3%B5es%20de%20projeto%202798a012ec798165bd78fe28726f1e16.md)  
-- [Metodologia Preliminar de Trabalho](Metodologia%20Preliminar%20de%20Trabalho%202898a012ec79804ba02ac452b90f9c91.md)  
+- [Definições de Projeto](https://observantia.notion.site/Defini-es-de-projeto-2798a012ec798165bd78fe28726f1e16)  
+- [Metodologia Preliminar de Trabalho](https://www.notion.so/observantia/Metodologia-Preliminar-de-Trabalho-2898a012ec79804ba02ac452b90f9c91)  
 - [Termo de Abertura](Termo%20abertura%202808a012ec79802f8343f04264ffacac.md)  
 - [Cronograma de Execução](Cronograma%20execu%C3%A7%C3%A3o%20do%20projeto%202808a012ec7980ea98eacedc51ac409f.md)
 
