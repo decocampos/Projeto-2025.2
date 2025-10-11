@@ -4,7 +4,7 @@
 
 # 🧠 ObservantIA – Sistema de Auditoria de Contratos
 
-> Projeto desenvolvido no contexto da disciplina **Planejamento e Gerenciamento de Projetos (PGP)**  
+> Projeto desenvolvido no contexto da disciplina **Planejamento e Gerenciamento de Projetos (PGP)**, **Sistemas de Gestão Empresarial (SGE)** e **Gestão de Processos de negócio (GPN)**
 > Curso de **Sistemas de Informação – Centro de Informática (CIn/UFPE)**  
 > Docente: **Prof. Dr. Alexandre Vasconcelos**
 
@@ -128,3 +128,4 @@ A reprodução parcial ou total deve citar a **Universidade Federal de Pernambuc
 **Recife – 2025**  
 🧩 *Projeto ObservantIA* | Disciplina PGP – UFPE  
 Desenvolvido por alunos do curso de **Sistemas de Informação**
+
